@@ -32,9 +32,8 @@ projeto_login/
 
 ### Pré-requisitos
 
-- **Python 3.x** instalado
+- **Python 3.10** instalado
 - **MySQL** configurado e acessível
 - Banco de dados MySQL para o projeto (ex: `aulapythonfull`)
-- 
 
 Este projeto foi desenvolvido para fins de estudo e prática de conceitos de **POO**, **SQL**, arquitetura **MVC** e segurança em **Python**. 
